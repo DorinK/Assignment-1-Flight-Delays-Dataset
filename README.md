@@ -5,4 +5,4 @@ link to the notebook - https://colab.research.google.com/drive/143KGGi2KLQXfW_Hg
 
 In this assignment, I experienced with pandas library and used linear models, for supervised learning, from the sklearn library.
 
-Grade: 100
+Score: 100
